@@ -4,6 +4,86 @@
 
 
 
+\## 🛠️ Tech Stack \& Tools Used
+
+
+
+<p align="left">
+
+
+
+&nbsp; <!-- Python -->
+
+&nbsp; <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge\&logo=python" />
+
+
+
+&nbsp; <!-- Pandas -->
+
+&nbsp; <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge\&logo=pandas" />
+
+
+
+&nbsp; <!-- NumPy -->
+
+&nbsp; <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge\&logo=numpy" />
+
+
+
+&nbsp; <!-- Matplotlib -->
+
+&nbsp; <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge" />
+
+
+
+&nbsp; <!-- Seaborn -->
+
+&nbsp; <img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C8CBF?style=for-the-badge" />
+
+
+
+&nbsp; <!-- Scikit Learn -->
+
+&nbsp; <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge\&logo=scikitlearn" />
+
+
+
+&nbsp; <!-- Jupyter -->
+
+&nbsp; <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge\&logo=jupyter" />
+
+
+
+&nbsp; <!-- Power BI -->
+
+&nbsp; <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge\&logo=power-bi" />
+
+
+
+&nbsp; <!-- Git -->
+
+&nbsp; <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge\&logo=git" />
+
+
+
+&nbsp; <!-- GitHub -->
+
+&nbsp; <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge\&logo=github" />
+
+
+
+&nbsp; <!-- VSCode -->
+
+&nbsp; <img src="https://img.shields.io/badge/VS%20Code-Editor-0078d7?style=for-the-badge\&logo=visual-studio-code" />
+
+
+
+</p>
+
+
+
+
+
 \# 📊 **Customer Churn Analysis (Python + Machine Learning + Power BI)**
 
 

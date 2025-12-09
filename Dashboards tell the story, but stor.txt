@@ -1,0 +1,11 @@
+ Dashboards tell the story, but storytelling makes the insights unforgettable. ✨
+A beautiful dashboard alone is not enough if you can’t convey its insights to the audience. The real value lies in storytelling—the art of presenting insights in a meaningful way.
+Dashboards are powerful because visuals help people understand information quickly. But the key insights you discover during analysis often remain hidden unless you explain them clearly. Storytelling bridges that gap and makes the audience fully aware of the dashboard’s impact.
+
+Effective storytelling with dashboards conveys:
+1. What the dashboard is about
+2. The purpose of each visual
+3. The key insights that can influence business decisions
+4. How to overcome challenges and mitigate risks
+
+Before joining my data analytics course at Rows & Columns, I thought being a data analyst was just about building beautiful dashboards. But through the course, I realized the importance of communicating insights effectively—because that’s what truly drives business value.

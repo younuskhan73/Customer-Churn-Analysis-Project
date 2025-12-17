@@ -47,6 +47,9 @@
 
    9.Customer segmentation to identify high-risk churn groups
 
+  “Analysed churn across contract types and tenure to identify high-risk customers.”
+
+
 📈 Dashboard Overview (Power BI)
 
   The interactive dashboard provides:
@@ -61,7 +64,8 @@
 
   5.Filters for deep-dive analysis
 
-  Model Evaluation
+
+ Model Evaluation
 
   | Model | Accuracy | AUC Score |
 

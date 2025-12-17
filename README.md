@@ -19,13 +19,13 @@
 
 🛠 Tools & Technologies
 
-   Power BI – Data modelling, DAX measures, interactive dashboards
+   1.Power BI – Data modelling, DAX measures, interactive dashboards
 
-   Python – Data cleaning, EDA (Pandas, NumPy, Matplotlib, Seaborn)
+   2.Python – Data cleaning, EDA (Pandas, NumPy, Matplotlib, Seaborn)
 
-   SQL – Data extraction, joins, aggregations
+   3.SQL – Data extraction, joins, aggregations
 
-   Excel – Initial data inspection
+   4.Excel – Initial data inspection
 
 🔍 Analysis Performed
 
@@ -49,17 +49,27 @@
 
 📈 Dashboard Overview (Power BI)
 
- The interactive dashboard provides:
+  The interactive dashboard provides:
 
-  Overall churn rate
+  1.Overall churn rate
 
-  Churn by contract type & tenure
+  2.Churn by contract type & tenure
 
-  Revenue impact of churn
+  3.Revenue impact of churn
 
-  Customer segmentation insights
+  4.Customer segmentation insights
 
-  Filters for deep-dive analysis
+  5.Filters for deep-dive analysis
+
+  Model Evaluation
+
+  | Model | Accuracy | AUC Score |
+
+  |-------|----------|- 1.00 |
+
+  LR ACC 0.7683333333333333 ROC_AUC 0.7303841970014662 precision 0.48333333333333334 recall 0.2116788321167883
+
+  RF ACC 0.745 ROC_AUC 0.6817565543661617 precision 0.3709677419354839 recall 0.1678832116788321
 
 
 🔗 Live Dashboard:
@@ -78,14 +88,14 @@
 
 
 🎯 Business Recommendations
+ 
+  1.Introduce incentives to move customers to long-term contracts
 
-  Introduce incentives to move customers to long-term contracts
+  2.Improve onboarding for new customers
 
-  Improve onboarding for new customers
+  3.Target high-risk segments with personalized retention offers
 
-  Target high-risk segments with personalized retention offers
-
-  Review pricing strategy for high-charge customers
+  4.Review pricing strategy for high-charge customers
 
 
 🚀 Skills Demonstrated
@@ -100,7 +110,10 @@
 
    5.Translating data into actionable insights
 
-📬 Contact
+📬 Contact:
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile-link/)
+
 
 🔗 LinkedIn: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B776Z9PguSlCHNgU4XEGt0w%3D%3D
 

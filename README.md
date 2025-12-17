@@ -321,12 +321,6 @@ If you find this project helpful or want to collaborate, feel free to connect.
 
 
 
----
-
-
-
-&nbsp;⭐ If you like this project, don’t forget to star the repo!
-
 
 
 

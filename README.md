@@ -74,6 +74,11 @@
 
 🔗 Live Dashboard:
 
+   &nbsp; <!-- Power BI -->
+
+&nbsp; <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge\&logo=power-bi" />
+
+
 👉 https://app.powerbi.com/view?r=eyJrIjoiYzZiNDIzMWEtMWE2MS00OTFmLWJlN2YtOTA2Yjk5NTY4ZWNmIiwidCI6IjE5YTQ1ZDQ2LTIwNDItNDg0ZS05OGYyLTJkMjQzODdmNmUyNSJ9
 
 💡 Key Insights
@@ -116,5 +121,10 @@
 
 
 🔗 LinkedIn: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B776Z9PguSlCHNgU4XEGt0w%3D%3D
+
+  <!-- GitHub -->
+
+  &nbsp; <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge\&logo=github" />
+
 
 📊 Portfolio: https://github.com/younuskhan73

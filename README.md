@@ -1,6 +1,13 @@
  #   Customer Churn Analysis Dashboard
 
-    Tools: Power BI | Python | SQL | Excel
+   Tools: Power BI | Python | SQL | Excel
+  &nbsp; <!-- Python -->
+
+&nbsp; <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge\&logo=python" />
+
+&nbsp; <!-- Power BI -->
+
+&nbsp; <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge\&logo=power-bi" />
 
 
 ## Project Objective:-

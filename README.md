@@ -1,71 +1,88 @@
-📊 Customer Churn Analysis
+ #   Customer Churn Analysis Dashboard
 
-   Tools: Power BI | Python | SQL
-
-📌 Problem Statement
-
-   Customer churn directly impacts business revenue and growth.
-   The objective of this project is to identify churn patterns, key drivers, and high-risk customer segments so businesses can take data-driven retention actions.
+    Tools: Power BI | Python | SQL | Excel
 
 
-📂 Dataset
+## Project Objective:-
 
-   Customer demographic, subscription, and usage data
-
-   Includes contract type, tenure, payment method, services, and churn status
-
-   Dataset cleaned and prepared using Python & SQL
-
-
-🛠 Tools & Technologies
-
-   1.Power BI – Data modelling, DAX measures, interactive dashboards
-
-   2.Python – Data cleaning, EDA (Pandas, NumPy, Matplotlib, Seaborn)
-
-   3.SQL – Data extraction, joins, aggregations
-
-   4.Excel – Initial data inspection
-
-🔍 Analysis Performed
-
-   1.Data cleaning & handling missing values
-
-   2.Exploratory Data Analysis (EDA)
-
-   3.Churn rate analysis by:
-
-   4.Contract type
-
-   5.Tenure
-
-   6.Monthly charges
-
-   7.Payment method
-
-   8.KPI creation using DAX
-
-   9.Customer segmentation to identify high-risk churn groups
-
-  “Analysed churn across contract types and tenure to identify high-risk customers.”
+   The objective of this project is to analysed customer churn behaviour
+   and identify the key factors contributing to customer attrition.
+   The analysis focuses on understanding churn patterns across contract types,
+   customer tenure, monthly charges, and payment methods
+   to support data-driven retention strategies.
 
 
-📈 Dashboard Overview (Power BI)
+## Dataset Description:-
 
-  The interactive dashboard provides:
+  The dataset contains customer-level information including:
+   - Demographics and account details
+   - Contract type and payment method
+   - Monthly charges and total charges
+   - Customer tenure and churn status
 
-  1.Overall churn rate
-
-  2.Churn by contract type & tenure
-
-  3.Revenue impact of churn
-
-  4.Customer segmentation insights
-
-  5.Filters for deep-dive analysis
+  Data cleaning and validation were performed prior to analysis
+  to ensure accuracy and consistency.
 
 
- Model Evaluation
+## Tools and Technologies:-
+
+   - Power BI – Interactive dashboard development and KPI visualization
+   - Python – Data exploration and pre-processing
+   - SQL – Data filtering, aggregation, and analysis
+   - Excel – Data validation and preliminary analysis
+
+
+## Analysis Performed:-
+
+   - Evaluated churn rate across different contract types
+   - Analysed churn behaviour based on customer tenure groups
+   - Assessed the impact of monthly charges on churn probability
+   - Compared churn distribution across payment methods
+   - Built KPIs to track churn rate and customer retention trends
+
+
+## Dashboard Overview:-
+
+  The dashboard provides a consolidated view of customer churn metrics,
+  including total customers, churned customers, churn rate,
+  and average monthly charges.
+  Interactive visuals allow users to explore churn patterns
+  across multiple business dimensions.
+
+
+## Key Insights:-
+
+   - Customers with month-to-month contracts exhibit the highest churn rate.
+   - Customers with shorter tenure are more likely to churn.
+   - Higher monthly charges are associated with increased churn risk.
+   - Payment method shows noticeable variation in churn behaviour.
+
+
+## Business Recommendations:-
+
+   - Encourage long-term contracts for customers on month-to-month plans.
+   - Implement targeted engagement strategies for new customers.
+   - Review pricing structures for high monthly charge segments.
+   - Apply focused retention offers for high-risk customer groups.
+
+
+## Repository Structure:-
+Customer-Churn-Analysis
+┣ Dataset
+┣ Python
+┣ SQL
+┣ PowerBI
+┣ Screenshots
+┣ README.md
+
+## Skills Demonstrated:-
+
+   - Customer churn analysis and KPI development
+   - Data modelling and pre-processing
+   - Business insight generation from data
+   - Dashboard storytelling using Power BI
+
+## Model Evaluation:-
 
   | Model | Accuracy | AUC Score |
 
@@ -82,41 +99,8 @@
 &nbsp; <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge\&logo=power-bi" />
 
 
-👉 https://app.powerbi.com/view?r=eyJrIjoiYzZiNDIzMWEtMWE2MS00OTFmLWJlN2YtOTA2Yjk5NTY4ZWNmIiwidCI6IjE5YTQ1ZDQ2LTIwNDItNDg0ZS05OGYyLTJkMjQzODdmNmUyNSJ9
+👉 https://app.powerbi.com/view?r=eyJrIjoiYzZiNDIzMWEtMWE2MS00OTFmLWJlN2YtOTA2Yjk5NTY4ZWNmIiwidCI6IjE5YTQ1ZDQ2LTIwNDItNDg0ZS05OGYyLTJkMjQzODdmNmUyNS
 
-💡 Key Insights
-
-  1.Customers on month-to-month contracts show the highest churn
-
-  2.New customers (low tenure) are more likely to churn
-
-  3.Higher monthly charges correlate with increased churn risk
-
-  4.Specific payment methods are associated with higher churn
-
-
-🎯 Business Recommendations
- 
-  1.Introduce incentives to move customers to long-term contracts
-
-  2.Improve onboarding for new customers
-
-  3.Target high-risk segments with personalized retention offers
-
-  4.Review pricing strategy for high-charge customers
-
-
-🚀 Skills Demonstrated
-
-   1.Business problem understanding
-
-   2.Data cleaning & EDA
-
-   3.Dashboard design & storytelling
-
-   4.KPI development using DAX
-
-   5.Translating data into actionable insights
 
 📬 Contact:
 
@@ -130,4 +114,4 @@
   &nbsp; <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge\&logo=github" />
 
 
-📊 Portfolio: https://github.com/younuskhan73
+ Portfolio: https://github.com/younuskhan73
